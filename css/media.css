@@ -1,0 +1,394 @@
+@media(max-width:1024px){
+    .container{
+        padding-left: 32px;
+        padding-right: 32px;
+        margin: 0 auto;
+    }
+
+    .header_menu{
+        padding-left: 0;
+        padding-right: 0;
+
+    }
+    .header_info{
+        background-size: 44%;
+         background-position:right 280px ;
+    }
+    .what_we_do{
+        padding-left: 32px;
+        padding-right: 32px;
+ 
+      }
+   .wwd_product_card{
+    flex-direction: column;
+    align-items: center;
+}
+     .wwd_card{
+         margin-bottom: 32px;
+}
+    .centr_card{
+        margin-bottom: 32px;
+}
+    .footter{
+        min-height: 644px;
+        margin-top: 109px;
+        padding-top: 47px;
+}
+    .footter_top{
+        display: flex;
+       
+}
+
+.footter_text{
+    max-width: 336px;
+    padding-right: 51px;
+    margin-bottom: 64px;
+}
+.footter_top_button {
+    min-width: 133px;
+    max-height: 32px;
+    padding:0 30px;
+    margin-top: 117px;
+    margin-bottom: 64px;
+    box-sizing: border-box;
+}
+.footter_top_text{
+    letter-spacing: 0.04em;
+}
+
+
+.footter_contacts{
+flex-direction: column;
+}
+.footter_addres{
+min-width: 515px;
+}
+
+.footter_tel:before{
+    padding-left: 0; 
+}
+.footter_tel{
+margin: 25px 0 25px 0;
+}
+
+.footter_email:before{
+    padding-left: 0; 
+}
+
+
+          
+
+
+
+.footter_bottom_text{
+    padding-left: 93px;
+
+}
+
+       /* / **CONTACT**/ 
+.cont_menu {
+    padding: 18px 32px;
+}
+.contacts_header_info{
+    width: 100%;
+    padding-top: 51px;
+    text-align: center;
+    min-height: 250px;
+}
+.cont_cont_head{
+margin-left: 0;
+}
+
+.cont_cont_text{
+    padding-left: 124px;
+    padding-right: 124px;
+    }
+    .form{
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 64px;
+    }
+    .contact_content{
+        margin: 64px 0;
+    }
+    .cont_form{
+        margin: 0;
+        max-width: 520px;
+    }
+    .cont_map{
+        display: block;
+        width: 100%;
+        margin-bottom: 64px;
+        align-self: center;
+        margin-left: -32px;
+    }
+
+
+    .map {
+        width: 143%;
+        justify-content: start;
+        padding: 0;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:667px){
+    .container{
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+
+    .header_info_top{
+        width: 100%;
+        font-size: 32px;
+        line-height: 37px;
+         margin-bottom: 12px;
+         text-align: center;
+        }
+ 
+        .header_info_text{
+            text-align: center;
+            width: 100%;
+        }
+
+        .main_header{
+            padding-top: 24px;
+            min-height: 376px;
+            padding-bottom: 41px;
+            box-sizing: border-box;
+        }
+
+        
+        .header_info{
+            padding-top: 36px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background: none;
+            box-sizing:border-box;
+        }
+        .header_menu{
+            padding-left: 16px;
+            padding-right: 16px;
+        }
+        .top__bottom {
+            margin-top: 32px;
+            font-size: 12px;
+            padding: 2px 12px;
+        }
+    .wwd_top_head,
+    .main_project_head {
+        font-size: 24px;
+        line-height: 28px;
+        min-width: 350px;
+        letter-spacing: 0.01em;
+        margin: 0 auto;
+    }
+        .wwd_headding{
+            font-size: 24px;
+            line-height: 28px;
+        }
+        .what_we_do{
+            padding-top: 48px;
+            text-align: center;
+          }
+          .wwd_product_card{
+            padding-top: 32px;
+          }
+
+          .wwd_card{
+           width: 100%;
+   }
+           .centr_card{
+           width: 100%;
+   }
+            .what_we_do{
+            padding-left: 19px;
+            padding-right: 19px;
+           }
+           .main_project_text{
+           width: 100%;
+           margin-bottom: 82px;
+           }
+           .progect__text{
+            top: 16px;
+            right: 16px;
+            font-size: 16px;
+            line-height: 19px;
+           }
+           .left_item_text{
+            font-size: 16px;
+            line-height: 19px;
+            top:16px;
+            left: 16px;
+           }
+           .main_box{
+              padding: 0;
+              }
+
+           .main_project{
+               padding-left: 16px;
+               padding-right: 16px;
+           }
+           .progect_parent{
+        flex-direction: column;
+        margin-top: 16px;
+        }
+           .left_item{
+            margin-right: 0;
+            margin-bottom: 16px;
+        }
+
+        .footter{      
+            min-height: 542px;
+            margin-top: 64px;
+            box-sizing:border-box  ;
+            padding:19px 0 32px 0;  
+        }
+
+        .footter_lable{
+        font-size: 24px;
+        line-height: 28px;
+        text-align: center;
+        max-width: 258px;
+        margin: 0 auto;
+        }
+
+        .footter_top{
+            margin: 0 auto;
+            flex-direction: column;
+            text-align: center;
+            padding:19px;
+        }
+       
+   .footter_top_text {
+     margin-bottom: 40px;
+   }
+            .footter_text{
+                text-align: center;
+                padding-right: 0;
+                margin-bottom: 0;
+            }
+
+            .footter_top_button {
+                margin: 0 auto;
+              margin-bottom: 40px;
+              
+            }
+              .hr_footter {
+                  margin: 0;
+                  opacity: 0.4;
+                  border: 1px solid #ffff;
+              }
+            .footter_bottom{
+                padding-top: 32px;
+                max-width: 250px;
+                margin: 0;
+            }
+                .footter_contacts{
+                    padding: 0;
+                    margin-bottom: 37px;
+                }
+           
+                .footter_bottom_text{
+                    padding-top:37px;
+                    padding-left: 0;
+                    text-align: center;
+                }
+            .footter_addres{
+            min-width: 308px;
+            
+            }
+                .bottom_FT{
+                    margin-bottom: 32px;
+                }
+            
+.map{
+      width: 143%;
+      justify-content: start;
+      padding: 0;
+}
+
+
+
+               .contacts_header_info{
+                width: 100%;
+                padding: 0;
+                text-align: center;
+            }
+            .cont_cont_head{
+            margin-left: 0;
+            }
+            
+            .cont_cont_text{
+                padding-left: 17px;
+                padding-right: 17px;
+                }
+
+                .contact_content{
+                    margin: 46px 0 32px 0;
+                }
+            
+                .form{
+                    margin-bottom: 32px;
+                }
+
+                .cont_form{
+       
+                    display: flex;
+                    flex-direction: column;
+                    min-width: 342px;
+                   height: 514px;
+                    margin: 0;
+                    margin-left: -16px;
+                    margin-right: -16px;
+                    padding-left: 32px;
+                    padding-right: 32px;
+                }
+
+
+                .cont_form_head {
+                    font-size: 16px;
+                    padding:36px 0 31px 0;
+                }
+
+                .cont_form_head_text{
+                    font-size: 14px;
+                    padding: 0 ;
+                }
+                .cont_form_text{
+                    height: 46px;
+               margin-bottom: 15px;
+                }
+                .cont_form_textarea{
+                    height: 92px;
+                    
+                    padding-left: 42px;
+                    padding-top: 21px;
+                    margin-bottom: 46px;
+                }
+                
+                .form_button{
+                    height: 46px;
+                    padding: 15px 0;             
+                }
+            }
